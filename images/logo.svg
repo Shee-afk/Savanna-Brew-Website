@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+<rect width="420" height="120" rx="18" fill="#f5e9da"/>
+<g transform="translate(18 18)" fill="none" stroke="#6f4e37" stroke-width="7" stroke-linecap="round">
+<path d="M20 56h78c-4 23-18 34-39 34S24 79 20 56Z"/><path d="M98 61h13c18 0 18 22 0 22H99"/><path d="M38 46c-7-12 10-14 4-27M61 46c-7-12 10-14 4-27"/>
+</g><text x="150" y="56" font-family="Georgia,serif" font-size="36" font-weight="bold" fill="#2b1b12">Savanna Brew</text>
+<text x="153" y="88" font-family="Georgia,serif" font-size="24" font-style="italic" fill="#d9822b">CAFÉ • NAIROBI</text></svg>
